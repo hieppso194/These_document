@@ -42,7 +42,7 @@ data
 
 ## Key word
 - depth cameras
-[An overview of depth sensors](https://blog.cometlabs.io/depth-sensors-are-the-key-to-unlocking-next-level-computer-vision-applications-3499533d3246)
+  + [An overview of depth sensors](https://blog.cometlabs.io/depth-sensors-are-the-key-to-unlocking-next-level-computer-vision-applications-3499533d3246)
 - previous task in UR2 and URCA.
-[Thesis of Ludovic](../documents/reference_thesis/45687_BLACHE_2016_archivage.pdf)
+  + [Thesis of Ludovic](/documents/reference_thesis/45687_BLACHE_2016_archivage.pdf)
 
