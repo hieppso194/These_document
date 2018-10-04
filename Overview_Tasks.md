@@ -15,8 +15,17 @@ resulting data to compatible with the DanceDB database, also used in the other W
 'What is the requirements of data in the task and the quality of DanceDB database'
 - explore multi-Kinect capture by designing a simple calibration method and fusion of information
 - enrich partial data by using priors existing data from the dance DB 
-- build a large set of experiments with APs can enable to evaluate the weakness of th resulting system
-- 
+- build a large set of experiments with APs can enable to evaluate the weakness of th resulting system. From those, backwards of the resulting system
+can be reveals and we can specific the specification to other tasks
+- exploit the avaibility of additional data, such as the surface information and RGB images. Besides address the complexity of the dancing motion. Key tool: the 
+example-based Kinect data correction developed in UR2
+- enrich that database to correct unreliable data by asking colloborating with expert
+dancers
+- generate representative geometric models with their associated skeletal representation from above data
+- find the best-fitted geometric model (what is the best one) to match multi-kinect
+data
+- improve the positioning accuracy of the skeleton
+- evaluation step by users, especially expert dancers.
 
 My task is about WP3
 - data processing- 
