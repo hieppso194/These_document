@@ -4,8 +4,8 @@ The big task is data processing from data from unreliable sources.
 ## The problem:
 - Due to using cheap and easy-to-use systems, such as depth cameras, it is quite 
 difficult to capture the styles on site, such as: calibration, sensor positioning. I need answer:
-+ Why is it difficult to capture?
-+ How about the data from easy-to-use systems?
+  + Why is it difficult to capture?
+  + How about the data from easy-to-use systems?
 
 . Hence, my tasks aim at developing innovative approaches to make a 
 system be available for normal users and helping them to capture the styles.
