@@ -45,4 +45,6 @@ data
   + [An overview of depth sensors](https://blog.cometlabs.io/depth-sensors-are-the-key-to-unlocking-next-level-computer-vision-applications-3499533d3246)
 - previous task in UR2 and URCA.
   + [Thesis of Ludovic](/documents/reference_thesis/45687_BLACHE_2016_archivage.pdf)
+- When making the slide, remember to add the funding organisations
+
 
