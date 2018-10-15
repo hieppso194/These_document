@@ -11,4 +11,10 @@ Summary of thesis:
 
 Papers:
   + Surface based Motion Retargeting by Preserving Spatial Relationship
+    - Based on source character to retarget to target character of our project. The constraint is preserving spatial relationship of these characters
+  + Filtered pose graph for efficient kinect pose reconstruction. The main idea is that to correct reconstructed skeleton data
+  based on a database of accurately captured human poses:
+    - A filted pose graph structure
+    - A customized search algorithm
+   
   
