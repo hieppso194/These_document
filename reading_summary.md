@@ -16,5 +16,10 @@ Papers:
   based on a database of accurately captured human poses:
     - A filted pose graph structure
     - A customized search algorithm
-   
   
+  + Accurate 3-D Reconstruction with RGB-D Cameras using Depth Map Fusion and Pose Refinement
+    - the simplest way to fuse depth maps is to register them into the same coordinate system but this
+	approach will lead to huge amount of redundant points
+    - a better way is to aim directly at a non-redundant point cloud so that overlapping points from
+	different depth maps do not increase the redundancy of the point cloud
+
