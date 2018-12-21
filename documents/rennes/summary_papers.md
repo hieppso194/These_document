@@ -9,6 +9,6 @@ without large and comprehensive training data sets these methods may fail.
 - The templates here can be articulated simple objects or triangular meshes.
 - Besides, there are also methods using cylinders attached with isotropic Gaussian functions to approximate the geometry of tracked object. Another method is using spherical harmonics functions equipped ellipsoids.
 
-
+- 3D studio max
 - read papers: 6,7 
 - About datasets: Berkeley Multimodal Human Action Database (MHAD) (here)[http://tele-immersion.citris-uc.org/berkeley mhad/]
