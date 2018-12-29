@@ -7,6 +7,5 @@ depth images by pipelining MakeHuman and Unity
 - sudo apt-get install makehuman-community
 
 ## Install Unity
-- It is available at: (link)[https://www.paperstartgames.com/install-unity3d-in-ubuntu-18_04/
-]
+- It is available at: [link](https://www.paperstartgames.com/install-unity3d-in-ubuntu-18_04/)
 
