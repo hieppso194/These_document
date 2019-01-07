@@ -9,3 +9,6 @@ depth images by pipelining MakeHuman and Unity
 ## Install Unity
 - It is available at: [link](https://www.paperstartgames.com/install-unity3d-in-ubuntu-18_04/)
 
+## Install Maya
+- It is available at: [Install Maya Ubuntu 18.04](https://linuxhint.com/install_autodesk_maya_ubuntu_1804/)
+
