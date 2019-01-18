@@ -1,4 +1,4 @@
-# This document contains the instruction of making perfect
+# This document contains the instruction of making perfect data
 depth images by pipelining MakeHuman and Unity
 
 ## Install MakeHuman
